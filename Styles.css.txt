@@ -1,625 +1,915 @@
-<html idmmzcc-ext-docid="444055552" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
+/*A Design by W3layouts
 
-    	<title>Teer | Tir | Shillong| Teer Results Online : NightTeer.com</title>
+Author: W3layout
 
-                <meta property="og:image" content="files/teer-result.jpg">
+Author URL: http://w3layouts.com
 
-    		<meta property="og:image" content="files/teer-common-numbers.jpg">
+License: Creative Commons Attribution 3.0 Unported
 
-    		<meta property="og:image" content="files/targetgame.jpg">
+License URL: http://creativecommons.org/licenses/by/3.0/
 
-    		<meta property="og:image" content="files/kerela result.jpg">
+*/
 
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+/* reset */
 
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,dl,dt,dd,ol,nav ul,nav li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
 
-		<meta name="description" content="We provide teer results online everyday">
+article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section {display: block;}
 
-		<meta name="keyword" content="teer,teer counter,teercounter,teer countar,tir,shillong,lottery result, shillong night, teer result, teer today, shillong night teer">	
+ol,ul{list-style:none;margin:0px;padding:0px;}
 
-		<meta name="p:domain_verify" content="00ccd2afc70d88bd807a484201433b46">		
+blockquote,q{quotes:none;}
 
-		<link href="files/style1.css" media="all" rel="stylesheet" type="text/css">
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
 
-		<link rel="shortcut icon" href="files/16.ico" type="image/x-icon">
+table{border-collapse:collapse;border-spacing:0;}
 
-		<script src="files/ca-pub-5824382477682918.js"></script><script src="files/sdk.js" id="facebook-jssdk"></script><script src="files/atrk.js" async="" type="text/javascript"></script><script src="files/analytics.js" async=""></script><script>
+/* start editing from here */
 
-		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+a{text-decoration:none;}
 
-		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+.txt-rt{text-align:right;}/* text align right */
 
-		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+.txt-lt{text-align:left;}/* text align left */
 
-		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+.txt-center{text-align:center;}/* text align center */
 
-		  ga('create', 'UA-54245329-2', 'auto');
+.float-rt{float:right;}/* float right */
 
-		  ga('send', 'pageview');
+.float-lt{float:left;}/* float left */
 
-		</script>
+.clear{clear:both;}/* clear float */
 
-		<!-- Start Alexa Certify Javascript -->
+.pos-relative{position:relative;}/* Position Relative */
 
-		<script type="text/javascript">
+.pos-absolute{position:absolute;}/* Position Absolute */
 
-		_atrk_opts = { atrk_acct:"hYtMk1a4eFf2cv", domain:"teerthailand.com",dynamic: true};
+.vertical-base{	vertical-align:baseline;}/* vertical align baseline */
 
-		(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+.vertical-top{	vertical-align:top;}/* vertical align top */
 
-		</script>
+.underline{	padding-bottom:5px;	border-bottom: 1px solid #eee; margin:0 0 20px 0;}/* Add 5px bottom padding and a underline */
 
-		<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=hYtMk1a4eFf2cv" style="display:none" height="1" width="1" alt="" /></noscript>
+nav.vertical ul li{	display:block;}/* vertical menu */
 
-		<!-- End Alexa Certify Javascript -->  			
+nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
 
-		</head>
-		
-<script type="text/javascript" src="//125700.shop/93f21495d3ddf579b180/bc4fcfc4cb/?placementName=default"></script>
-	<body><div class=" fb_reset" id="fb-root"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe src="files/xd_arbiter.htm" style="border: medium none;" tabindex="-1" title="Facebook Cross Domain Communication Frame" aria-hidden="true" id="fb_xdm_frame_http" scrolling="no" allowfullscreen="true" allowtransparency="true" name="fb_xdm_frame_http" frameborder="0"></iframe><iframe src="files/xd_arbiter_002.htm" style="border: medium none;" tabindex="-1" title="Facebook Cross Domain Communication Frame" aria-hidden="true" id="fb_xdm_frame_https" scrolling="no" allowfullscreen="true" allowtransparency="true" name="fb_xdm_frame_https" frameborder="0"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe src="files/ping.htm" style="display: none;" scrolling="no" allowfullscreen="true" allowtransparency="true" name="f1429457f8daffe" frameborder="0"></iframe></div></div></div>
+img{max-width:100%;}
 
-<script>(function(d, s, id) {
+html, body{
 
-  var js, fjs = d.getElementsByTagName(s)[0];
+  	font-family: Arial, Helvetica, sans-serif;
 
-  if (d.getElementById(id)) return;
+    font-size: 100%;
 
-  js = d.createElement(s); js.id = id;
+  	 background: #FFf;
 
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=680446982052492&version=v2.0";
+}
 
-  fjs.parentNode.insertBefore(js, fjs);
+/*----start-container----*/
 
-}(document, 'script', 'facebook-jssdk'));</script>
+.container{
 
-		<!----- start-header---->
+	width:100%;
 
-    </div>
+	background-color:#EAD3A8;
 
-     
+}
 
-		
+.container1{
 
+	width:33.33%;
 
-			<div id="home" class="header">
+	float:left;
 
-					<div class="top-header">
+	
 
-					<a href="index.php"><img src="files/teer.jpg" title="Teer" alt="Teer"></a>
+}
 
-				
+/*-----start-header----*/
 
-				</div>
+.menu {
 
-			</div>
+	float: right;
 
-			
+	margin-top: 6px;
 
-			<!---work--->
+}
 
-			<div id="work" class="work" style="background-color:white;">
+.header{
 
-			<!--<div id="team" class="team" style="background-color:white;">-->
+	
 
-						<div>
+}
 
-						<div class="container" style="background-color:white;">
+.logo{
 
-							<div class="head-one text-center team-head">
+	float: left;
 
-							    
+}
 
-									<!--<h3><a href="winner_contest.php"><u>PHOTOGRAPHY CONTEST RESULTS</u></a></h3>-->
+.logo a{
 
+	color: #303030;
 
+	font-weight: 200;
 
-						
+	text-transform: uppercase;
 
-								<!--Step 1 : Change the Date -->
+	font-size:1.6em;
 
-								<h2>24/11/2024 </h2>
+}
 
-								<table class="table">
+.logo a:hover{
 
-								<tbody><tr> 
+	text-decoration:none;
 
-								<th colspan="2">Shillong Night</th>
+}
 
-								</tr>
+.logo320{
 
-								<tr style="background-color:#3FD5BA">
+	display:none;
 
-								<td align="center">F/R(11:10PM)</td><td align="center">S/R(12:10PM)</td>
+}
 
-								</tr>
+/*----navbar-nav----*/
 
-								<tr style="background-color:cream; border: 1px solid black;">
+.top-header{
 
-								<!---------Step 2 SHILLONG RESULT STARTS HERE--------->
+	background-color:#99CCFF; 
 
-								<!--Shillong F/R Result--><td align="center">12</td><!--Shillong F/R Result-->
+	padding: 0em 1em;
 
-								<!--Shillong S/R Result--><td align="center">15</td><!--Shillong S/R Result-->
+	margin-bottom: 0px;
 
-								<!----------------SHILLONG RESULT ENDS HERE----------->
+	
 
-								<!---------------------------------------------------->
+}
 
-								<!------------------------611------------------------->
+.top-nav ul li a{
 
-								</tr>
+	color: #A7A7A7;
 
-								</tbody></table>
+	padding: 0.2em 1.5em;
 
-			
+	font-size: 0.9em;
 
-							</div>		
+	font-weight: 400;
 
-							   		
+	text-align: center;
 
+	text-transform: uppercase;
 
+	position: relative;
 
-							<div id="work" class="work" style="background-color:white;">													
+	font-weight: 300;
 
-							<div class="container" style="background-color:white;">
+}
 
-							<div class="head-one text-center team-head">
+.logo a{
 
-								<!--<div align="center" class="fb-like" data-href="http://www.facebook.com/teercounter" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>	-->
+	display:block;
 
-							
+}
 
-							</div>
+.banner{
 
-						</div>
+	
 
-<center><ins style="width: 0px;height:0px" data-width="0" data-height="0" class="p90f3176cf1" data-domain="//125700.shop" data-affquery="/2f9477228cf82d235174/90f3176cf1/?placementName=default"><script src="//125700.shop/js/responsive.js" async></script></ins></center>					
+	min-height: 80px;
 
-						
+	background-size: 100% 100%;
 
-					</div>
+}
 
-				<div id="work1" class="container" style="background-color:white;">
+.banner-info h1{
 
-					<!---works--->
+	font-size: 1em;
 
-					<div class="works">
+	text-transform: uppercase;
 
-								<div class="col-md-45 work-grid">
+	color: #303030;
 
-								    <div class="item1">
+	font-weight: 800;
 
-								        <a href="common_numbers.php"><img src="files/teer-common-numbers.jpg" title="Common Number" alt="Teer Common Numbers"></a>					        
+	line-height: 1.4em;
 
-								    </div>  
+	margin: 0em;
 
-							    </div>   
+}
 
-								<div class="col-md-45 work-grid">
+.banner-info h1 span{
 
-								    <div class="item1">
+	display:block;
 
-								       <a href="https://nightteer.net/"> <img src="files/teercounterSocial.jpg" title="teercounterSocial" alt="TeerCounter Social Network"></a>
+}
 
-								        <div class="caption" style="display: none;">
+.banner-info p{
 
-								        </div>
+	color: #7B7C7B;
 
-								    </div>  
+	font-family: Arial, Helvetica, sans-serif;
 
-							    </div>
+	font-size: 0.875em;
 
-								<div class="col-md-45 work-grid">
+}
 
-								    <div class="item1">
+.big-btn{
 
-								       <a href="dream.php"><img src="files/teer-dream-numbers.jpg" title="Dream Number" alt="Teer Dream Numbers"></a>								        
+	margin-top:1em;
 
-								        <div class="caption" style="display: none;">
+	display:inline-block;
 
-								         </div>
+}
 
-								    </div>  
+a.big-btn span{
 
-					    </div>
+	width:50px;
 
+	height:50px;
 
+	display:inline-block;
 
-													</div>
+	background:url(../images/big-btn.png) no-repeat 0px 0px;
 
- <div class="clear">
+}
 
+a.big-btn span:hover{
 
+	opacity:0.8;
 
-			   
+}
 
- </div>   
+.banner-info{
 
-<center><ins style="width: 0px;height:0px" data-width="0" data-height="0" class="p90f3176cf1" data-domain="//125700.shop" data-affquery="/2f9477228cf82d235174/90f3176cf1/?placementName=default"><script src="//125700.shop/js/responsive.js" async></script></ins></center>
+	padding-top:1.5em;
 
+}
 
+/*---- //banner ----*/
 
-					</div>
+/*----works----*/
 
-					
+.work1{
 
-					<div id="work1" class="container" style="background-color:white;">
+	padding:0.5em 0;
 
-					<!---works--->
+}
 
-					<div class="works">					
+.work1{
 
-							                 
+	width:100%;
 
-							
+}
 
-								  <div class="col-md-45 work-grid">
+.head-one{
 
-								    <div class="item1">
+	padding: 0em 0 0.5em;
 
-								       	<a href="analytics.php"><img src="files/analytics.png" title="Prediction Analysis" alt="Prediction Analysis"></a>							        
+}
 
-								        <div class="caption" style="display: none;">
+.head-one h2{
 
-								            </div>
+	color:#303030;
 
-								    </div>  
+	font-weight:800;
 
-							    </div>
+	font-size:0.9em;
 
-								<div class="col-md-45 work-grid">
+	text-transform:uppercase;
 
-								    <div class="item1">
+}
 
-								       <a href="targetgame.php"> <img src="files/targetgame.jpg" title="target game" alt="Target Game"></a>
+.head-one span{
 
-								        <div class="caption" style="display: none;">
+	height:1px;
 
-								        </div>
+	background:#303030;
 
-								    </div>  
+	display:inline-block;
 
-							    </div> 
+	width:40%;
 
-								<div class="col-md-45 work-grid">
+	margin:0;
 
-								    <div class="item1">
+	padding:0;
 
-								       <a href="previous-result.php"><img src="files/teer-previous-numbers.jpg" title="Previous Result" alt="Teer Previous Results"></a>								        
+}
 
-								        <div class="caption" style="display: none;">
+.head-one p{
 
-								        </div>
+	margin: 0em auto 0;
 
-								    </div>  
+	font-size: 0.875em;
 
-							    </div> 		
+	color: #5A5A5A;
 
-							</div>
+	letter-spacing: 0.015em;
 
-							<div class="clear"> </div>   
+	width: 95%;
 
-<center><ins style="width: 0px;height:0px" data-width="0" data-height="0" class="p90f3176cf1" data-domain="//125700.shop" data-affquery="/2f9477228cf82d235174/90f3176cf1/?placementName=default"><script src="//125700.shop/js/responsive.js" async></script></ins></center>					
+	line-height: 1.6em;
 
-</div>
+}
 
-					
+.work-grid img{
 
-					<div id="work1" class="container" style="background-color:white;">
+	width:98%;
 
-					<!---works--->
+	 border: 1px solid white;
 
-					<div class="works">										
+}
 
-							<div class="col-md-45 work-grid">
+.work-grid{
 
-								    <div class="item1">
+	margin-bottom:0px;
 
-										<a href="calander.php"> <img src="files/TeerCalendar.jpg" title="Teer Calendar" alt="Teer Calendar"></a>								        
+}
 
-								        <div class="caption" style="display: none;">
+/*---team---*/
 
-								        </div>
+.team{
 
-								    </div>  
+	background: #F3F3F3;
 
-							    </div>
+	padding:1em 0 1.5em 0;
 
-								<div class="col-md-45 work-grid">
+	border: 1px solid #DBDBDB;
 
-								    <div class="item1">
+	border-right: 0;
 
-								    <a href="ReputedCounter.php"> <img src="files/ReputedCounter.jpg" title="ReputedCounter" alt="ReputedCounter"></a>								      
+	border-left: 0;
 
-								    
+}
 
-									<!--	<a href="lotteries.html"> <img  src="images/Home.jpg" title="Teer and Lottery Home" alt="Teer Calendar"/></a>								        -->
+.team-head p{
 
-								        <div class="caption" style="display: none;">
+	width: 90%;
 
-								        </div>
+	font-weight: 600;
 
-								    </div>  
+	color: #5A5A5A;
 
-							    </div>
+	margin: 0.8em auto;
 
-								<div class="col-md-45 work-grid">
+}
 
-								    <div class="item1">
+.t-social ul{
 
-								       <a href="https://teernight.com/app-page/"><img src="files/OnlineShopping.jpg" title="Win Prizes" alt="TeerCounter Online Shopping"></a>
+	margin:0;
 
-								        <div class="caption" style="display: none;">
+	padding:0;
 
-								        </div>
+}
 
-								        
+.t-social li{
 
-								    </div>			    
+	display:inline-block;
 
-							    </div>  
+}
 
-				</div>
+.team-member{
 
-					 <div class="clear"> </div>   
+	background: #FFFFFF;
 
-			</div>
+	padding: 0.5em 0;
 
-					
+	margin-bottom: 0.8em;
 
-<center><ins style="width: 0px;height:0px" data-width="0" data-height="0" class="p90f3176cf1" data-domain="//125700.shop" data-affquery="/2f9477228cf82d235174/90f3176cf1/?placementName=default"><script src="//125700.shop/js/responsive.js" async></script></ins></center>					
+}
 
-						
+img.t-pic{
 
-			<div id="work" class="work" style="background-color:#D3D3D3;">													
+	border: 3px solid #FFF;
 
-				<div class="container" style="background-color:#D3D3D3;" align="center">
+}
 
-				<a href="www.nightteer.com/app/teer.apk"><u>Download TeerCounter Android App</u></a>	
+.team-member h3{
 
-				</div>
+	text-transform: uppercase;
 
-			</div>	
+	font-weight: 800;
 
-						
+	font-size: 0.9em;
 
-						
+	margin: 0.2em 0 0.1em;
 
-						
-<table width="100%" bgcolor="lightblue"><tr>
-    <td width="50%">
+	color: #303030;
 
-<a href="https://teernight.com/index.php">Home</a> |        
-        
-<a href="https://nightteer.com/tnc.php">Terms and Conditions</a> |
+}
 
-<a href="https://nightteer.com/about.php">About Us</a> |
+.team-member span{
 
-<a href="https://nightteer.com/blog/">Blog</a> |
+	font-style: italic;
 
-<a href="https://nightteer.com/policy.php"> Privacy Policy</a> |
+	color: #303030;
 
-<a href="https://nightteer.com/contact.php">Contact Us</a> |
+	font-size: 0.8em;
 
-</td>
-    <td width="50%" align="right">Copyright &copy : All site reserved 2016-2023</td>
-</tr></table>						
+}
 
-<style>#fblikepop {    background-color: #fff;
+/*---*/
 
-    display: none;
+.t-social{
 
-    position: fixed;
+	margin: 0.5em 0 0em;
 
-    top: 200px;
+}
 
-    _position: absolute;
+.t-social li a span{
 
- /* hack for IE 6*/
+	width:20px;
 
-    width: 60%;
+	height:20px;
 
-    border: 10px solid #6F6F6F;
+	display:inline-block;
 
-    z-index: 200;
+	background:url(../images/t-social.png) no-repeat 0px 0px;
 
-    -moz-border-radius: 9px;
+}
 
-    -webkit-border-radius: 9px;
+.t-social li a.twitter span:hover{
 
-    margin: 0pt;
+	background-position: 0px -25px;
 
-    padding: 0pt;
+}
 
-    color: #333333;
+.t-social li a.dribbble span{
 
-    text-align: left;
+	background-position: -35px 0px;
 
-    font-family: arial,sans-serif;
+}
 
-    font-size: 13px;
+.t-social li a.dribbble span:hover{
 
-}#fblikepop body {
+	background-position: -35px -25px;
 
-    background: #fff none repeat scroll 0%;
+}
 
-    line-height: 1;
+.t-social li a.in span{
 
-    margin: 0pt;
+	background-position: -72px 0px;
 
-    height: 100%;
+}
+
+.t-social li a.in span:hover{
+
+	background-position: -72px -25px;
+
+}
+
+.work-grid{
+
+	margin-bottom:0.3em;	
+
+}
+
+.item1{
+
+	
+
+	width:100%;
+
+	float:none;
+
+	text-align:center;
+
+	font-size:24px;
+
+}
+
+.table1{
+
+	width:100%; margin-left:0px; font-size:10px;text-align:left; border : 1px solid black;
+
+}
+
+}
+
+/*----contact----*/
+
+.contact{
+
+	padding: 1em 0 2em;
+
+}
+
+.contact-form p{
+
+	font-size: 0.8em;
+
+	color: #5A5A5A;
+
+	margin: 0.3em 0 0.8em;
+
+	font-weight: 400;
+
+	display: block;
+
+}
+
+.contact-form textarea{
+
+	width: 94%;
+
+	min-height: 100px;
+
+	resize: none;
+
+	outline: none;
+
+	background: #F2F2F2;
+
+	padding: 0.4em;
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 0.9em;
+
+	color: #666;
+
+	border: 1px solid #DADADA;
+
+}
+
+.contact-form input[type="text"]{
+
+	width: 94%;
+
+	background: #F2F2F2;
+
+	padding: 0.5em 0.4em;
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 0.9em;
+
+	color: #666;
+
+	border: 1px solid #DADADA;
+
+	outline:none;
+
+	margin: 3% 0;
+
+}
+
+.contact-form input[type="text"]:hover,.contact-form textarea:hover{
+
+	border-color:#6995A9;
+
+}
+
+.contact-form input[type="submit"]{
+
+	background: url(../images/upload.png) no-repeat 65px 1px #6995A9;
+
+	color: #FFF;
+
+	text-transform: uppercase;
+
+	font-weight: 700;
+
+	padding: 0.6em 1em;
+
+	border: none;
+
+	width: 99%;
+
+	text-indent: 19px;
+
+	font-size: 0.9em;
+
+}
+
+.contact-form input[type="submit"]:hover{
+
+	background: url(../images/upload.png) no-repeat 65px 1px #303030;
+
+}
+
+/*--//contact----*/
+
+/*----footer----*/
+
+.footer{
+
+	background:#4F4F4F;
+
+	padding:0em 0em;
+
+	text-align:bottom;
+
+}
+
+.footer1{
+
+	background:#EAD3A8;
+
+	padding:0em 0em;
+
+	text-align:bottom;
+
+	
+
+}
+
+.footer-left1{
+
+	margin-bottom:0em;
+
+	width:26.33%;
+
+	/*width:50%;*/
+
+	float : left;
+
+	text-align:left;
+
+	vertical-align: bottom;
+
+	background-color:#99CCFF; 
+
+}
+
+/*----footer-menu---*/
+
+.footer-center1{
+
+	margin-bottom:0em;
+
+	width:40.33%;
+
+	float : left;
+
+	text-align:center;
+
+	vertical-align: bottom;
+
+	background-color:#99CCFF; 
 
 }
 
 
 
-.fbflush {
+.footer-right1{
 
-    cursor: pointer;
+	margin-bottom:0em;
 
-    font-size: 11px !important;
+	width:33.33%;
 
-    color: #FFF !important;
+	/*width:50%;*/
 
-    text-decoration: none !important;
+	float : left;
 
-    border: 0 !important;
+	text-align:right;
+
+	vertical-align: bottom;
+
+	background-color:#99CCFF; 
+
+
 
 }
 
-#fblikebg {
 
-    display: none;
 
-    position: fixed;
+.footer-left{
 
-    _position: absolute;
 
- /* hack for IE 6*/
 
-    height: 100%;
+	margin-bottom:0.5em;
 
-    width: 100%;
+}
 
-    top: 0;
+.footer p{
 
-    left: 0;
+	margin:0;
 
-    background: #000000;
+	padding:0;
 
-    z-index: 100;
+	color:#868686;
 
-}#fblikepop #closeable {
+	font-size:0.875em;
 
-    float: right;
+}
 
-    margin: 7px 15px 0 0;
+.footer p span,.footer p a{
 
-}#fblikepop h1 {
+	color:#949494;
 
-    background: #6D84B4 none repeat scroll 0 0;
+}
 
-    border-top: 1px solid #3B5998;
+.footer p a:hover{
 
-    border-left: 1px solid #3B5998;
+	text-decoration:none;
 
-    border-right: 1px solid #3B5998;
+	color:#6995A9;
 
-    color: #FFFFFF !important;
+}
 
-    font-size: 14px !important;
+/*--footer tag by anuja--*/
 
-    font-weight: normal !important;
+.top-footer{
 
-    padding: 5px !important;
+	background-color:yellow; 
 
-    margin: 0 !important;
+	padding: 2em 5em;
 
-}#fblikepop #actionHolder {
+	margin-bottom: 0px;
 
-    height: 30px;
+}
 
-    overflow: hidden;
+.top-footer p{
 
-}#fblikepop #buttonArea {
+	text-align:center;
 
-    background: #F2F2F2;
+	color:red;
 
-    border-top: 1px solid #CCCCCC;
+}
 
-    padding: 10px;
+/*--anuja footer ends--*/
 
-    min-height: 50px;
 
-}#fblikepop #buttonArea a {
 
-    color: #999999 !important;
+/*-----grid-system---*/
 
-    text-decoration: none !important;
+.container{
 
-    border: 0 !important;
+	width:100%;
 
-    font-size: 10px !important;
+	margin:0 auto;
 
-}#fblikepop #buttonArea a:hover {
+}
 
-    color: #333 !important;
+.text-center{
 
-    text-decoration: none !important;
+	text-align:center;
 
-    border: 0 !important;
+}
 
-}#fblikepop #popupMessage {
+.col-md-1,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8  {
 
-    font-size: 12px !important;
+	width: 100%;
 
-    font-weight: normal !important;
+}
 
-    line-height: 22px;
+.col-md-45  {
 
-    padding: 8px;
+	width: 33.33%;
 
-    background: #fff !important;
+	float: left;	
 
-}#fblikepop #counter-display {
+}
 
-    float: right;
+.col-md-50  {
 
-    font-size: 11px !important;
+	width: 16.66%;
 
-    font-weight: normal !important;
+	float: left;	
 
-    margin: 5px 0 0 0;
+}
 
-    text-align: right;
+.col-md-46  {
 
-    line-height: 16px;
+	width: 33.33%;
 
-}</style>
+	float: left;
 
-<script src="files/jsapi"></script><script>google.load("jquery", "1");</script><script src="files/jquery.js" type="text/javascript"></script> 
+}
 
-<script type="text/javascript" src="files/all.js"></script>
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
 
-<script type="text/javascript">
+	float: none;
 
-//<![CDATA[
+}
 
- kakinetworkdotcom01username="Kazungacom-373619229487881",
 
- kakinetworkdotcom01title="Join us at Facebook!",
 
- kakinetworkdotcom01skin="04",
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4,.col-md-45,.col-md-46 , .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
 
- kakinetworkdotcom01time="20",
+	position: relative;
 
- kakinetworkdotcom01wait="0",
+	min-height: 1px;
 
- kakinetworkdotcom01lang="en"
+	padding-left:0px;
 
-//]]>
+	padding-right:0px;
 
-</script>
+}
 
-<script type="text/javascript" src="files/popup-with-timer-codez.htm"></script>
+.col-xs-4 {
 
-<script type="text/javascript">
+	width: 33.33333333%;
 
-//<![CDATA[
+}
 
- $(document).ready(function(){$().kakinetworkdotcom({ closeable: true });});
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
 
-//]]>
+	float: left;
 
-</script>
+}
 
+.table{
 
+      width:80%;margin-left:auto; margin-right:auto;
 
+}
 
+.table th{
 
+		border: 1px solid black;
 
+		background-color:#E8E8E8;
 
+}
 
+.table td{
 
-</div></div></div></body></html>cp
+		border: 1px solid black;		
+
+} 
+
+.table2{
+
+		
+
+	  width:95%;margin-left:auto; margin-right:auto;
+
+}
+
+.table2 th{
+
+		border: 1px solid black;
+
+		background-color:#E8E8E8;
+
+}
+
+.table2 td{
+
+		border: 1px solid white;		
+
+} 
+
+.table3{
+
+		
+
+	  width:95%;margin-left:auto; margin-right:auto;
+
+}
+
+.table3 th{
+
+		border: 1px solid black;
+
+		background-color:#3FD5BA;
+
+}
+
+.table3 td{
+
+		border: 1px solid white;		
+
+} 
+
+.table4{
+
+      width:100%;margin-left:auto; margin-right:auto;
+
+}
+
+.table4 th{
+
+		border: 1px solid black;
+
+		background-color:#E8E8E8;
+
+}
+
+.table4 td{
+
+		border: 1px solid black;		
+
+} 
+
+.table5{
+
+      width:100%;margin-left:auto; margin-right:auto;
+
+}
+
+.table5 th{
+
+		border: 1px solid black;
+
+		//background-color:#E8E8E8;
+
+}
+
+.table5 td{
+
+	//	border: 1px solid black;		
+
+} 
